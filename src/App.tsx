@@ -24,13 +24,19 @@ function App() {
           </Box>
           <WindowSplitter className="WindowSplitter" orientation="horizontal">
             <Box boxShadow={2}>
-              <Typography>One</Typography>
+              <Box p={2}>
+                <Typography>One</Typography>
+              </Box>
             </Box>
             <Box boxShadow={2}>
-              <Typography>Two</Typography>
+              <Box p={2} >
+                <Typography>Two</Typography>
+              </Box>
             </Box>
             <Box boxShadow={2}>
-              <Typography>Three</Typography>
+              <Box p={2}>
+                <Typography>Three</Typography>
+              </Box>
             </Box>
           </WindowSplitter>
         </Box>
@@ -39,15 +45,22 @@ function App() {
             <Typography variant="h5" component="h3">Vertical Splitting</Typography>
           </Box>
           <WindowSplitter className="WindowSplitter" orientation="vertical">
-            <Box p={1} boxShadow={2}>
-              <Typography>One</Typography>
+            <Box boxShadow={2}>
+              <Box p={2}>
+                <Typography>One</Typography>
+              </Box>
             </Box>
-            <Box p={1} boxShadow={2}>
-              <Typography>Two</Typography>
+            <Box boxShadow={2}>
+              <Box p={2} >
+                <Typography>Two</Typography>
+              </Box>
             </Box>
-            <Box p={1} boxShadow={2}>
-              <Typography>Three</Typography>
+            <Box boxShadow={2}>
+              <Box p={2} >
+                <Typography>Three</Typography>
+              </Box>
             </Box>
+
           </WindowSplitter>
         </Box>
       </main>
