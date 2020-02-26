@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WindowSplitter should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-horizontal-1"
+  >
+    <article
+      style="flex: 1 1 auto;"
+    >
+      One
+    </article>
+    <div
+      class="makeStyles-dividerHorizontal-3"
+      role="separator"
+    />
+    <article
+      style="flex: 1 1 auto;"
+    >
+      Two
+    </article>
+    <div
+      class="makeStyles-dividerHorizontal-3"
+      role="separator"
+    />
+    <article
+      style="flex: 1 1 auto;"
+    >
+      Three
+    </article>
+    <div
+      class="makeStyles-dividerHorizontal-3"
+      role="separator"
+    />
+  </div>
+</DocumentFragment>
+`;
