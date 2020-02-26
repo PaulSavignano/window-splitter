@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/window-splitter/static/css/main.349704d3.chunk.css",
-    "main.js": "/window-splitter/static/js/main.6124b07f.chunk.js",
-    "main.js.map": "/window-splitter/static/js/main.6124b07f.chunk.js.map",
+    "main.js": "/window-splitter/static/js/main.5c0b673e.chunk.js",
+    "main.js.map": "/window-splitter/static/js/main.5c0b673e.chunk.js.map",
     "runtime-main.js": "/window-splitter/static/js/runtime-main.c8a689c2.js",
     "runtime-main.js.map": "/window-splitter/static/js/runtime-main.c8a689c2.js.map",
     "static/js/2.ec6bb7ec.chunk.js": "/window-splitter/static/js/2.ec6bb7ec.chunk.js",
     "static/js/2.ec6bb7ec.chunk.js.map": "/window-splitter/static/js/2.ec6bb7ec.chunk.js.map",
     "index.html": "/window-splitter/index.html",
-    "precache-manifest.f08998b305e71d9c770368f3260c7e82.js": "/window-splitter/precache-manifest.f08998b305e71d9c770368f3260c7e82.js",
+    "precache-manifest.aaa10407ac04cd782a689a2cae3f28a7.js": "/window-splitter/precache-manifest.aaa10407ac04cd782a689a2cae3f28a7.js",
     "service-worker.js": "/window-splitter/service-worker.js",
     "static/css/main.349704d3.chunk.css.map": "/window-splitter/static/css/main.349704d3.chunk.css.map",
     "static/js/2.ec6bb7ec.chunk.js.LICENSE.txt": "/window-splitter/static/js/2.ec6bb7ec.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c8a689c2.js",
     "static/js/2.ec6bb7ec.chunk.js",
     "static/css/main.349704d3.chunk.css",
-    "static/js/main.6124b07f.chunk.js"
+    "static/js/main.5c0b673e.chunk.js"
   ]
 }
